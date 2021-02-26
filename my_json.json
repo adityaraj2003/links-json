@@ -158,5 +158,24 @@
     "480p_Tot": "https://new.gdtot.com/file/100330915",
     "480p_Mirror": "https://mir.cr/14CJ8EQ6",
     "480p_drive_id": "1-vDIZJDxKeLhi5FVdJOCBXPusVEADE6X"
+  },
+  "ben-10-ultimate-alien-1x01": {
+    "quality_version": "4",
+    "title": "Ben 10 Ultimate Alien - S01E01",
+    "1080p_HEVC_MEGA": "https://mega.nz",
+    "1080p_HEVC_Sharer": "https://sharer.pw",
+    "1080p_HEVC_Tot": "https://new.gdtot.com",
+    "1080p_HEVC_Mirror": "https://mir.cr",
+    "1080p_HEVC_drive_id": "123445",
+    "720p_MEGA": "https://mega.nz",
+    "720p_Sharer": "https://sharer.pw",
+    "720p_Tot": "https://new.gdtot.com",
+    "720p_Mirror": "https://mir.cr",
+    "720p_drive_id": "123445",
+    "480p_MEGA": "https://mega.nz",
+    "480p_Sharer": "https://sharer.pw",
+    "480p_Tot": "https://new.gdtot.com",
+    "480p_Mirror": "https://mir.cr",
+    "480p_drive_id": "123445"
   }
 }
